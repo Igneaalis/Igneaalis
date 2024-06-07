@@ -41,6 +41,8 @@
 * SOLID
 * Garbage Collector
 * MSIL
+* Async/await
+* Multi-threading
 
 ## Learning right now:
 * React

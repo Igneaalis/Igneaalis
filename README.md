@@ -40,6 +40,7 @@
 * MVC
 * SOLID
 * Garbage Collector
+* MSIL
 
 ## Learning right now:
 * React

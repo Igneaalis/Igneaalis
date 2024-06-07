@@ -39,6 +39,7 @@
 * IoC (Dependency Injection)
 * MVC
 * SOLID
+* Garbage Collector
 
 ## Learning right now:
 * React

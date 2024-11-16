@@ -6,9 +6,10 @@
 <a href="#"><img src="https://img.shields.io/badge/-nokladr-%232c2f33?style=flat-square&logo=discord" height="25"></a>
 
 ## Frontend:
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="60" src="https://avatars.githubusercontent.com/u/5296178?s=200&v=4"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/680b4717c7acabd1eb10b8c008991a160a84bc88/topics/blazor/blazor.png"></code>
 
 ## Backend:

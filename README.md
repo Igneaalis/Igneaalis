@@ -12,6 +12,8 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/680b4717c7acabd1eb10b8c008991a160a84bc88/topics/blazor/blazor.png"></code>
 
 ## Backend:
+<code><img height="60" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4"></code>
+<code><img height="60" src="https://avatars.githubusercontent.com/u/143937?s=200&v=4"></code>
 <code><img height="60" src="https://avatars.githubusercontent.com/u/1412239?s=48&v=4"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>

@@ -7,6 +7,7 @@
 
 ## Frontend
 <a href="https://github.com/v8/v8"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
+<a href="https://www.typescriptlang.org/"><code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code></a>
 <a href="https://react.dev/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></a>
 <a href="https://getbootstrap.com/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code></a>
 <a href="https://twig.symfony.com/"><code><img height="60" src="https://avatars.githubusercontent.com/u/5296178?s=200&v=4"></code></a>
@@ -28,21 +29,7 @@
 
 ## Frameworks/Tools
 <a href="https://www.docker.com/"><code><img height="60" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code></a>
-<code><img height="60" src="https://avatars.githubusercontent.com/u/8546082?s=200&v=4"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></code>
-<code><img height="60" src="https://www.clouddynamicshk.com/wp-content/uploads/2014/03/git2.png"></code>
-
-<!--
-**Igneaalis/Igneaalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.i18next.com/"><code><img height="60" src="https://avatars.githubusercontent.com/u/8546082?s=200&v=4"></code></a>
+<a href="https://gradle.org/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></code></a>
+<a href="https://git-scm.com/"><code><img height="60" src="https://www.clouddynamicshk.com/wp-content/uploads/2014/03/git2.png"></code></a>
+<a href="https://about.gitlab.com/"><code><img height="60" src="https://about.gitlab.com/nuxt-images/ico/favicon.ico"></code></a>

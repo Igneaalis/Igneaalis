@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S.Korolev</h1>
-<h3 align="center">Senior Web Developer from St. Petersburg, Russia</h3>
+<h3 align="center">Senior Fullstack Web Developer from St. Petersburg, Russia</h3>
 
 ## Contact me
 

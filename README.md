@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm S.Korolev</h1>
 <h3 align="center">Senior Fullstack Web Developer from St. Petersburg, Russia</h3>
 
+🏆 5 years of experience. 5+ successful commercial IT projects done including a high-load MIT (healthcare) in Russia.
+
+Currently developing a system of native advertising in TMA.
+
 ## Contact me
 
 <a href="https://t.me/igneaalis"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" height="25"></a>

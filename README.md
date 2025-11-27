@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm S.Korolev</h1>
 <h3 align="center">Senior Fullstack Web Developer from St. Petersburg, Russia</h3>
 
-🏆 5 years of experience. 5+ successful commercial IT projects done including an E-Health project.
-
-Currently developing an advertising service for Telegram Mini-Apps.
+🏆 5 years of experience.
 
 ## Contact me
 

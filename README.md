@@ -18,8 +18,8 @@
 ## Backend
 <a href="https://nodejs.org/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></a>
 <a href="https://expressjs.com/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code></a>
-<a href="https://go.dev/"><code><img height="60" src="https://go.dev/images/go-logo-white.svg"></code></a>
 <a href="https://www.php.net/"><code><img height="60" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4"></code></a>
+<a href="https://laravel.com/"><code><img height="60" src="https://laravel.com/img/favicon/apple-touch-icon.png"></code></a>
 <a href="https://symfony.com/"><code><img height="60" src="https://avatars.githubusercontent.com/u/143937?s=200&v=4"></code></a>
 <a href="https://httpd.apache.org/"><code><img height="60" src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"></code></a>
 <a href="https://nginx.org/"><code><img height="60" src="https://avatars.githubusercontent.com/u/1412239?s=48&v=4"></code></a>

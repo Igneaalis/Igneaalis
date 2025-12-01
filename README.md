@@ -35,4 +35,4 @@
 <a href="https://www.i18next.com/"><code><img height="60" src="https://avatars.githubusercontent.com/u/8546082?s=200&v=4"></code></a>
 <a href="https://gradle.org/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></code></a>
 <a href="https://git-scm.com/"><code><img height="60" src="https://www.clouddynamicshk.com/wp-content/uploads/2014/03/git2.png"></code></a>
-<a href="https://about.gitlab.com/"><code><img height="60" src="https://about.gitlab.com/nuxt-images/ico/favicon.ico"></code></a>
+<a href="https://about.gitlab.com/"><code><img height="60" src="https://about.gitlab.com/images/ico/favicon-192x192.png"></code></a>

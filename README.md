@@ -138,7 +138,7 @@ These metrics reflect work in a high-velocity, security-first enterprise environ
       <br><sub><b>RabbitMQ</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" width="48" height="48" alt="ClickHouse"/>
+      <img src="https://cdn.simpleicons.org/clickhouse" width="48" height="48" alt="Clickhouse"/>
       <br><sub><b>ClickHouse</b></sub>
     </td>
   </tr>

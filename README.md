@@ -1,38 +1,242 @@
-<h1 align="center">Hi 👋, I'm S.Korolev</h1>
-<h3 align="center">Senior Fullstack Web Developer from St. Petersburg, Russia</h3>
+```markdown
+<!-- mermaid: {"theme": "dark"} -->
+```
 
-🏆 5 years of experience.
+<h1 align="center">Hi 👋, I'm Sergey Korolev</h1>
+<h3 align="center">🚀 Senior Fullstack Developer | Building Scalable Enterprise Solutions</h3>
 
-## Contact me
+<p align="center">
+  <em>📍 Based in St. Petersburg, Russia | 🌏 Open to global opportunities</em>
+</p>
 
-<a href="https://t.me/igneaalis"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" height="25"></a>
+<p align="center">
+  <a href="https://t.me/igneaalis">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
-## Frontend
-<a href="https://github.com/v8/v8"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
-<a href="https://www.typescriptlang.org/"><code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code></a>
-<a href="https://react.dev/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></a>
-<a href="https://getbootstrap.com/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code></a>
-<a href="https://twig.symfony.com/"><code><img height="60" src="https://avatars.githubusercontent.com/u/5296178?s=200&v=4"></code></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/680b4717c7acabd1eb10b8c008991a160a84bc88/topics/blazor/blazor.png"></code></a>
+---
 
-## Backend
-<a href="https://nodejs.org/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></a>
-<a href="https://expressjs.com/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code></a>
-<a href="https://www.php.net/"><code><img height="60" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4"></code></a>
-<a href="https://laravel.com/"><code><img height="60" src="https://laravel.com/img/favicon/apple-touch-icon.png"></code></a>
-<a href="https://symfony.com/"><code><img height="60" src="https://avatars.githubusercontent.com/u/143937?s=200&v=4"></code></a>
-<a href="https://httpd.apache.org/"><code><img height="60" src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"></code></a>
-<a href="https://nginx.org/"><code><img height="60" src="https://avatars.githubusercontent.com/u/1412239?s=48&v=4"></code></a>
-<a href="https://courses.cms.caltech.edu/cs123/sql99std/ansi-iso-9075-1-1999.pdf"><code><img height="60" src="https://www.inlineicons.com/svg/Web/sql-file-format-symbol-svg-icon.svg"></code></a>
-<a href="https://www.rabbitmq.com/"><code><img height="60" src="https://avatars.githubusercontent.com/u/96669?s=200&v=4"></code></a>
-<a href="https://kafka.apache.org/"><code><img height="60" src="https://kafka.apache.org/logos/kafka_logo--simple.png"></code></a>
-<a href="https://redis.io/"><code><img height="60" src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4"></code></a>
-<a href="https://dotnet.microsoft.com/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code></a>
-<a href="https://clickhouse.com/"><code><img height="60" src="https://clickhouse.com/favicon.ico"></code></a>
+## 🚀 Enterprise GitLab Activity (Last 12 Months)
 
-## Frameworks/Tools
-<a href="https://www.docker.com/"><code><img height="60" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code></a>
-<a href="https://www.i18next.com/"><code><img height="60" src="https://avatars.githubusercontent.com/u/8546082?s=200&v=4"></code></a>
-<a href="https://gradle.org/"><code><img height="60" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></code></a>
-<a href="https://git-scm.com/"><code><img height="60" src="https://www.clouddynamicshk.com/wp-content/uploads/2014/03/git2.png"></code></a>
-<a href="https://about.gitlab.com/"><code><img height="60" src="https://about.gitlab.com/images/ico/favicon-192x192.png"></code></a>
+| Metric | Count | Impact |
+|--------|-------|--------|
+| 💻 Code Pushes | **2,809** | Consistent delivery & feature development |
+| ✅ Merged Requests | **123** | Shipped features to production |
+| 👀 Code Reviews Approved | **205** | Mentoring & quality gatekeeping |
+| 💬 Collaborative Comments | **145** | Active team communication |
+| 🆕 New MRs/Issues Opened | **192** | Initiative & problem identification |
+| 🔧 Refactoring & Cleanup | **256** | Codebase hygiene & tech debt management |
+
+> 🔹 **100% Private/Enterprise Repositories** — NDA-protected projects  
+> 🔹 **GitLab CI/CD Expert** — Pipeline design, testing, deployment automation  
+> 🔹 **Microservices Architecture** — Distributed systems, Kafka, Redis, ClickHouse  
+> 🔹 **Code Review Culture** — 200+ approvals demonstrate leadership & quality focus
+
+These metrics reflect work in a high-velocity, security-first enterprise environment — directly transferable to Alibaba/Tencent internal development workflows.
+
+---
+
+## 📊 GitHub Stats (Open-Source)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Igneaalis&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igneaalis&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igneaalis&theme=radical&hide_border=true" alt="GitHub Streak" height="180">
+</p>
+
+---
+
+## 💼 Professional Experience
+
+- 🏆 **5+ years** of professional development experience
+- 🎯 Specialized in **high-load systems** and **microservices architecture**
+- 🌐 Experience with **distributed systems** (Kafka, RabbitMQ, Redis)
+- ⚡ Performance optimization expert (ClickHouse, Nginx, Apache)
+- 🔄 CI/CD and DevOps practices (Docker, GitLab, Gradle)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Development
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/>
+      <br><sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" width="48" height="48" alt="Blazor"/>
+      <br><sub><b>Blazor</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+      <br><sub><b>HTML5</b></sub>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Backend Development
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+      <br><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express"/>
+      <br><sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
+      <br><sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel"/>
+      <br><sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony"/>
+      <br><sub><b>Symfony</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET"/>
+      <br><sub><b>.NET</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases & Message Brokers
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+      <br><sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis"/>
+      <br><sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="48" height="48" alt="Kafka"/>
+      <br><sub><b>Kafka</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="48" height="48" alt="RabbitMQ"/>
+      <br><sub><b>RabbitMQ</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" width="48" height="48" alt="ClickHouse"/>
+      <br><sub><b>ClickHouse</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ DevOps & Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx"/>
+      <br><sub><b>Nginx</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache"/>
+      <br><sub><b>Apache</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="48" height="48" alt="Gradle"/>
+      <br><sub><b>Gradle</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab"/>
+      <br><sub><b>GitLab</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Why Me?
+
+<table>
+  <tr>
+    <td>
+      <h4>🚀 Scalability Expert</h4>
+      <p>Experience with high-load systems using Kafka, Redis, and ClickHouse - technologies used by tech giants</p>
+    </td>
+    <td>
+      <h4>🌐 Fullstack Versatility</h4>
+      <p>Proficient in modern frontend (React, TypeScript) and robust backend (Node.js, PHP, .NET)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>⚡ Performance Focus</h4>
+      <p>Optimization expertise with Nginx, Apache, and column-oriented databases for big data</p>
+    </td>
+    <td>
+      <h4>🔄 DevOps Ready</h4>
+      <p>Strong CI/CD background with Docker, GitLab CI, and containerization practices</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Igneaalis&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph">
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Igneaalis&theme=radical&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies">
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  I'm actively seeking opportunities at leading tech companies like <b>Alibaba</b> and <b>Tencent</b>. 
+  <br>
+  Ready to contribute to large-scale, innovative projects! 🚀
+</p>
+
+<p align="center">
+  <a href="https://t.me/igneaalis">
+    <img src="https://img.shields.io/badge/💬_Telegram-DM_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact on Telegram">
+  </a>
+</p>
+
+---
+
+<p align="center">⚡ "Turning complex problems into elegant solutions"</p>

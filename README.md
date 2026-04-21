@@ -96,7 +96,7 @@ These metrics reflect work in a high-velocity, security-first enterprise environ
       <br><sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express"/>
+      <img src="https://cdn.simpleicons.org/express/ffcc01" width="48" height="48" alt="Express"/>
       <br><sub><b>Express</b></sub>
     </td>
     <td align="center" width="96">
@@ -104,11 +104,11 @@ These metrics reflect work in a high-velocity, security-first enterprise environ
       <br><sub><b>PHP</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel"/>
       <br><sub><b>Laravel</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony"/>
+      <img src="https://cdn.simpleicons.org/symfony/ffcc01" width="48" height="48" alt="Symfony"/>
       <br><sub><b>Symfony</b></sub>
     </td>
     <td align="center" width="96">
@@ -130,7 +130,7 @@ These metrics reflect work in a high-velocity, security-first enterprise environ
       <br><sub><b>Redis</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="48" height="48" alt="Kafka"/>
+      <img src="https://cdn.simpleicons.org/apachekafka/ffcc01" width="48" height="48" alt="Kafka"/>
       <br><sub><b>Kafka</b></sub>
     </td>
     <td align="center" width="96">
@@ -164,7 +164,7 @@ These metrics reflect work in a high-velocity, security-first enterprise environ
       <br><sub><b>Apache</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="48" height="48" alt="Gradle"/>
+      <img src="https://cdn.simpleicons.org/gradle/32606a" width="48" height="48" alt="Gradle"/>
       <br><sub><b>Gradle</b></sub>
     </td>
     <td align="center" width="96">
@@ -214,7 +214,8 @@ These metrics reflect work in a high-velocity, security-first enterprise environ
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Igneaalis&theme=radical&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Igneaalis&theme=radical&utcOffset=3" alt="Productive Time" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igneaalis&theme=radical" alt="Stats" height="180">
 </p>
 
 ---

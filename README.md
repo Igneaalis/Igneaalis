@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergey Korolev</h1>
+<h1 align="center">Hi 👋, I'm Stepan Korolev</h1>
 <h3 align="center">🚀 Senior Fullstack Developer | Building Scalable Enterprise Solutions</h3>
 
 <p align="center">

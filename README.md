@@ -1,7 +1,3 @@
-```markdown
-<!-- mermaid: {"theme": "dark"} -->
-```
-
 <h1 align="center">Hi 👋, I'm Sergey Korolev</h1>
 <h3 align="center">🚀 Senior Fullstack Developer | Building Scalable Enterprise Solutions</h3>
 

@@ -29,7 +29,7 @@
 > 🔹 **Microservices Architecture** — Distributed systems, Kafka, Redis, ClickHouse  
 > 🔹 **Code Review Culture** — 200+ approvals demonstrate leadership & quality focus
 
-These metrics reflect work in a high-velocity, security-first enterprise environment — directly transferable to Alibaba/Tencent internal development workflows.
+These metrics reflect work in a high-velocity, security-first enterprise environment.
 
 ---
 

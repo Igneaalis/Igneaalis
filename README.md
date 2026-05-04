@@ -190,14 +190,6 @@ These metrics reflect work in a high-velocity, security-first enterprise environ
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Igneaalis&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph">
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">

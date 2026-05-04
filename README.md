@@ -33,19 +33,6 @@ These metrics reflect work in a high-velocity, security-first enterprise environ
 
 ---
 
-## 📊 GitHub Stats (Open-Source)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Igneaalis&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igneaalis&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igneaalis&theme=radical&hide_border=true" alt="GitHub Streak" height="180">
-</p>
-
----
-
 ## 💼 Professional Experience
 
 - 🏆 **5+ years** of professional development experience
@@ -207,15 +194,6 @@ These metrics reflect work in a high-velocity, security-first enterprise environ
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Igneaalis&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph">
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Igneaalis&theme=radical&utcOffset=3" alt="Productive Time" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igneaalis&theme=radical" alt="Stats" height="180">
 </p>
 
 ---
